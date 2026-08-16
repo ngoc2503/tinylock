@@ -1,0 +1,22 @@
+{
+"xiaomi":{
+  "package":"com.miui.powerkeepe",
+  "activity":"com.miui.powerkeeper.ui.HiddenAppsConfigActivity"
+},
+"oppo":{
+  "package":"com.coloros.oppoguardelf",
+  "activity":"com.coloros.powermanager.fuelgaue.PowerConsumptionActivity"
+},
+"vivo":{
+  "package":"com.vivo.abe",
+  "activity":"com.vivo.applicationbehaviorengine.ui.ExcessivePowerManagerActivity"
+},
+"huawei":{
+  "package":"com.huawei.systemmanager",
+  "activity":"com.huawei.systemmanager.power.ui.HwPowerManagerActivity"
+},
+"samsung":{
+  "package":"com.samsung.android.lool",
+  "activity":"com.samsung.android.sm.battery.ui.BatteryActivity"
+  }
+}
