@@ -1,6 +1,6 @@
 {
 "xiaomi":{
-  "package":"com.miui.powerkeepe",
+  "package":"com.miui.powerkeeper",
   "activity":"com.miui.powerkeeper.ui.HiddenAppsConfigActivity"
 },
 "oppo":{
