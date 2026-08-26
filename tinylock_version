@@ -1,6 +1,6 @@
 {
-  "latestVersion":"1.1.1",
+  "latestVersion":"1.1.3",
   "urlUpdate":"https://play.google.com/store/apps/details?id=com.tinygamelab.tinylock",
-  "content":"Content1|Content2|Content3",
+  "content":"Added allowed app management|Added Vietnamese language support,|Optimized the user interface.",
   "require":"0"
 }
