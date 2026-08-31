@@ -1,32 +1,34 @@
-[
-  {
-    "notificationKey": "usage_history",
-    "version": 1,
-    "type": "feature",
-    "vi": {
-      "title": "Lịch sử sử dụng ứng dụng",
-      "content": "TinyLock đã bổ sung tính năng giúp bạn theo dõi thời gian sử dụng ứng dụng."
+{
+  "notifications": [
+    {
+      "notificationKey": "usage_history",
+      "version": 1,
+      "type": "feature",
+      "vi": {
+        "title": "Lịch sử sử dụng ứng dụng",
+        "content": "TinyLock đã bổ sung tính năng giúp bạn theo dõi thời gian sử dụng ứng dụng."
+      },
+      "en": {
+        "title": "App Usage History",
+        "content": "TinyLock now lets you track how much time you spend using your apps."
+      },
+      "image": "",
+      "createdAt": "2026-08-30T10:00:00Z"
     },
-    "en": {
-      "title": "App Usage History",
-      "content": "TinyLock now lets you track how much time you spend using your apps."
-    },
-    "image": "",
-    "createdAt": "2026-08-30T10:00:00Z"
-  },
-  {
-    "notificationKey": "kid_mode",
-    "version": 1,
-    "type": "update",
-    "vi": {
-      "title": "Cải thiện Kid Mode",
-      "content": "Kid Mode đã được cải thiện để giúp phụ huynh quản lý ứng dụng tốt hơn."
-    },
-    "en": {
-      "title": "Kid Mode Improvements",
-      "content": "Kid Mode has been improved to help parents manage apps more effectively."
-    },
-    "image": "",
-    "createdAt": "2026-08-29T10:00:00Z"
-  }
-]
+    {
+      "notificationKey": "kid_mode",
+      "version": 1,
+      "type": "update",
+      "vi": {
+        "title": "Cải thiện Kid Mode",
+        "content": "Kid Mode đã được cải thiện để giúp phụ huynh quản lý ứng dụng tốt hơn."
+      },
+      "en": {
+        "title": "Kid Mode Improvements",
+        "content": "Kid Mode has been improved to help parents manage apps more effectively."
+      },
+      "image": "",
+      "createdAt": "2026-08-29T10:00:00Z"
+    }
+  ]
+}
