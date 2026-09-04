@@ -1,5 +1,19 @@
 {
-  "notifications": [
+  "notifications": [{
+      "notificationKey": "add notification",
+      "version": 1,
+      "type": "update",
+      "vi": {
+        "title": "Phát hành phiên bản 1.1.5",
+        "content": "Thêm tính năng thông báo, cải thiện giao diện người dùng, tăng hiệu suất ứng dụng."
+      },
+      "en": {
+          "title": "Version 1.1.5 Released",
+          "content": "Added notifications, improved the user interface, and enhanced app performance."
+      },
+      "image": "",
+      "createdAt": "2026-09-04T20:00:00Z"
+    },
     {
       "notificationKey": "usage_history",
       "version": 1,
