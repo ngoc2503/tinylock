@@ -1,27 +1,38 @@
-{[{
-"deviceName":"xiaomi",
-"oemAutoStartInfo":{
-  "package":"com.miui.powerkeeper",
-  "activity":"com.miui.powerkeeper.ui.HiddenAppsConfigActivity"
-}},{
-"deviceName":"oppo",
-"oemAutoStartInfo":{
-  "package":"com.coloros.oppoguardelf",
-  "activity":"com.coloros.powermanager.fuelgaue.PowerConsumptionActivity"
-}},{
-"deviceName":"vivo",
-"oemAutoStartInfo":{
-  "package":"com.vivo.abe",
-  "activity":"com.vivo.applicationbehaviorengine.ui.ExcessivePowerManagerActivity"
-}},{
-"deviceName":"huawei",
-"oemAutoStartInfo":{
-  "package":"com.huawei.systemmanager",
-  "activity":"com.huawei.systemmanager.power.ui.HwPowerManagerActivity"
-}},{
+{
+"devices":[
+{
+  "deviceName":"xiaomi",
+  "oemAutoStartInfo":{
+    "package":"com.miui.powerkeeper",
+    "activity":"com.miui.powerkeeper.ui.HiddenAppsConfigActivity"
+  }
+},
+{
+  "deviceName":"oppo",
+  "oemAutoStartInfo":{
+    "package":"com.coloros.oppoguardelf",
+    "activity":"com.coloros.powermanager.fuelgaue.PowerConsumptionActivity"
+  }
+},
+{
+  "deviceName":"vivo",
+  "oemAutoStartInfo":{
+    "package":"com.vivo.abe",
+    "activity":"com.vivo.applicationbehaviorengine.ui.ExcessivePowerManagerActivity"
+  }
+},
+{
+  "deviceName":"huawei",
+  "oemAutoStartInfo":{
+    "package":"com.huawei.systemmanager",
+    "activity":"com.huawei.systemmanager.power.ui.HwPowerManagerActivity"
+  }
+},
+{
 "deviceName":"samsung",
 "oemAutoStartInfo":{
   "package":"com.samsung.android.lool",
   "activity":"com.samsung.android.sm.battery.ui.BatteryActivity"
-  }}
+  }
+}
 ]}
