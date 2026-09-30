@@ -1,6 +1,7 @@
 {
   "notifications": [
-    "notificationKey": "release_version_1.1.6",
+    {
+      "notificationKey": "release_version_1.1.6",
       "version": 1,
       "type": "update",
       "vi": {
