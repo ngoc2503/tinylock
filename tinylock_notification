@@ -1,5 +1,20 @@
 {
-  "notifications": [{
+  "notifications": [
+    "notificationKey": "release_version_1.1.6",
+      "version": 1,
+      "type": "update",
+      "vi": {
+        "title": "Phát hành phiên bản 1.1.6",
+        "content": "Tối ưu hóa giao diện người dùng, thêm mới tính năng kiểm tra điện thoại và trình phát hiện ứng dụng chứa quảng cáo."
+      },
+      "en": {
+        "title": "Version 1.1.6 Released",
+        "content": "Optimized the user interface, added a new Phone Test feature, and added an Ad Detector to identify apps that may contain advertisements."
+      },
+      "image": "",
+      "createdAt": "2026-09-30T00:54:00Z"
+    },
+    {
       "notificationKey": "add notification",
       "version": 1,
       "type": "update",
