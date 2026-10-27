@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "articles": [
+    {
+      "id": "tantrum-toddler",
+      "title": "Trẻ ăn vạ: vì sao và cách ứng phó",
+      "file": "articles/tantrum-toddler.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 48,
+      "topics": ["an-va", "cam-xuc"],
+      "sourceOrg": "Zero to Three",
+      "sourceUrl": "https://www.zerotothree.org/resources/326-toddlers-and-challenging-behavior-why-they-do-it-and-how-t"
+    }
+  ]
+}
