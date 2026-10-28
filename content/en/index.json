@@ -1,1 +1,60 @@
-
+{
+  "schemaVersion": 1,
+  "articles": [
+    {
+      "id": "tantrum-toddler",
+      "title": "Toddler Tantrums: Why They Happen and How to Respond",
+      "file": "articles/tantrum-toddler.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 48,
+      "topics": ["an-va", "cam-xuc"],
+      "sourceOrg": "Zero to Three",
+      "sourceUrl": "https://www.zerotothree.org/resources/326-toddlers-and-challenging-behavior-why-they-do-it-and-how-t"
+    },
+    {
+      "id": "positive-discipline",
+      "title": "Positive Discipline: Teaching Instead of Punishing",
+      "file": "articles/positive-discipline.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 144,
+      "topics": ["ky-luat", "gia-dinh"],
+      "sourceOrg": "HealthyChildren.org (AAP)",
+      "sourceUrl": "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/disciplining-your-child.aspx"
+    },
+    {
+      "id": "milestones-when-to-worry",
+      "title": "Developmental Milestones: What Is Typical at Each Age",
+      "file": "articles/milestones-when-to-worry.md",
+      "version": 1,
+      "ageMinMonths": 2,
+      "ageMaxMonths": 60,
+      "topics": ["moc-phat-trien", "suc-khoe"],
+      "sourceOrg": "CDC - Learn the Signs. Act Early.",
+      "sourceUrl": "https://www.cdc.gov/ncbddd/actearly/milestones/"
+    },
+    {
+      "id": "sleep-routine",
+      "title": "Children's Sleep: How Much They Need and How to Build a Routine",
+      "file": "articles/sleep-routine.md",
+      "version": 1,
+      "ageMinMonths": 4,
+      "ageMaxMonths": 60,
+      "topics": ["giac-ngu", "suc-khoe"],
+      "sourceOrg": "HealthyChildren.org (AAP)",
+      "sourceUrl": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Healthy-Sleep-Habits-How-Many-Hours-Does-Your-Child-Need.aspx"
+    },
+    {
+      "id": "screen-time",
+      "title": "Screen Time for Young Children",
+      "file": "articles/screen-time.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 72,
+      "topics": ["man-hinh", "gia-dinh"],
+      "sourceOrg": "HealthyChildren.org (AAP)",
+      "sourceUrl": "https://www.healthychildren.org/English/family-life/Media/Pages/Healthy-Digital-Media-Use-Habits-for-Babies-Toddlers-Preschoolers.aspx"
+    }
+  ]
+}
