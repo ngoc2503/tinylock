@@ -11,6 +11,28 @@
       "topics": ["an-va", "cam-xuc"],
       "sourceOrg": "Zero to Three",
       "sourceUrl": "https://www.zerotothree.org/resources/326-toddlers-and-challenging-behavior-why-they-do-it-and-how-t"
+    },
+    {
+      "id": "sleep-routine",
+      "title": "Giấc ngủ của trẻ: cần bao nhiêu và cách tạo thói quen",
+      "file": "articles/sleep-routine.md",
+      "version": 1,
+      "ageMinMonths": 4,
+      "ageMaxMonths": 60,
+      "topics": ["giac-ngu", "suc-khoe"],
+      "sourceOrg": "HealthyChildren.org (AAP)",
+      "sourceUrl": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Healthy-Sleep-Habits-How-Many-Hours-Does-Your-Child-Need.aspx"
+    },
+    {
+      "id": "screen-time",
+      "title": "Thời gian dùng màn hình của trẻ nhỏ",
+      "file": "articles/screen-time.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 72,
+      "topics": ["man-hinh", "gia-dinh"],
+      "sourceOrg": "HealthyChildren.org (AAP)",
+      "sourceUrl": "https://www.healthychildren.org/English/family-life/Media/Pages/Healthy-Digital-Media-Use-Habits-for-Babies-Toddlers-Preschoolers.aspx"
     }
   ]
 }
