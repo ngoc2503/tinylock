@@ -55,6 +55,17 @@
       "topics": ["man-hinh", "gia-dinh"],
       "sourceOrg": "HealthyChildren.org (AAP)",
       "sourceUrl": "https://www.healthychildren.org/English/family-life/Media/Pages/Healthy-Digital-Media-Use-Habits-for-Babies-Toddlers-Preschoolers.aspx"
+    },
+    {
+      "id": "why-do-babies-startle-in-their-sleep",
+      "title": "Why Do Babies Jerk in Their Sleep?",
+      "file": "articles/why-do-babies-startle-in-their-sleep.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 36,
+      "topics": ["giac-ngu", "suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
     }
   ]
 }
