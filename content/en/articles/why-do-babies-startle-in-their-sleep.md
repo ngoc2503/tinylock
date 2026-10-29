@@ -1,5 +1,3 @@
-# Why Do Babies Startle in Their Sleep?
-
 Babies sometimes twitch their arms or legs, start suddenly, curl up, or wake briefly while sleeping. These movements can worry parents, especially when their baby is a newborn. However, **not every startle during sleep is a sign of a problem**. Understanding the possible causes, how to respond, and which warning signs to watch for can help parents care for their baby.
 
 ## 1. Why Do Babies Startle in Their Sleep?
