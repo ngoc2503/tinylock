@@ -1,5 +1,3 @@
-# Vì sao trẻ ngủ hay giật mình?
-
 Trẻ nhỏ đôi khi có những biểu hiện như giật tay chân, giật mình đột ngột, co người hoặc tỉnh giấc khi đang ngủ. Hiện tượng này có thể khiến cha mẹ lo lắng, đặc biệt khi trẻ còn sơ sinh. Tuy nhiên, **không phải mọi trường hợp trẻ giật mình khi ngủ đều là dấu hiệu bất thường**. Để chăm sóc trẻ đúng cách, cha mẹ cần hiểu nguyên nhân, cách xử lý và những dấu hiệu cần chú ý.
 
 ## 1. Vì sao trẻ hay giật mình khi ngủ?
