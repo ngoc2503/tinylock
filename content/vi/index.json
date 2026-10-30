@@ -8,6 +8,7 @@
       "version": 1,
       "ageMinMonths": 0,
       "ageMaxMonths": 36,
+      "createdAt": "2026-10-30",
       "topics": ["suc-khoe","giac-ngu"],
       "sourceOrg": "",
       "sourceUrl": ""
@@ -19,6 +20,7 @@
       "version": 1,
       "ageMinMonths": 4,
       "ageMaxMonths": 8,
+      "createdAt": "2026-10-30",
       "topics": ["suc-khoe","an-uong"],
       "sourceOrg": "",
       "sourceUrl": ""
@@ -30,6 +32,7 @@
       "version": 1,
       "ageMinMonths": 0,
       "ageMaxMonths": 3,
+       "createdAt": "2026-10-29",
       "topics": ["suc-khoe"],
       "sourceOrg": "",
       "sourceUrl": ""
@@ -41,6 +44,7 @@
       "version": 1,
       "ageMinMonths": 12,
       "ageMaxMonths": 48,
+      "createdAt": "2026-10-29",
       "topics": ["an-va", "cam-xuc"],
       "sourceOrg": "Zero to Three",
       "sourceUrl": "https://www.zerotothree.org/resources/326-toddlers-and-challenging-behavior-why-they-do-it-and-how-t"
@@ -52,6 +56,7 @@
       "version": 1,
       "ageMinMonths": 12,
       "ageMaxMonths": 144,
+      "createdAt": "2026-10-28",
       "topics": ["ky-luat", "gia-dinh"],
       "sourceOrg": "HealthyChildren.org (AAP)",
       "sourceUrl": "https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/disciplining-your-child.aspx"
@@ -63,6 +68,7 @@
       "version": 1,
       "ageMinMonths": 2,
       "ageMaxMonths": 60,
+      "createdAt": "2026-10-28",
       "topics": ["moc-phat-trien", "suc-khoe"],
       "sourceOrg": "CDC - Learn the Signs. Act Early.",
       "sourceUrl": "https://www.cdc.gov/ncbddd/actearly/milestones/"
@@ -74,6 +80,7 @@
       "version": 1,
       "ageMinMonths": 4,
       "ageMaxMonths": 60,
+      "createdAt": "2026-10-28",
       "topics": ["giac-ngu", "suc-khoe"],
       "sourceOrg": "HealthyChildren.org (AAP)",
       "sourceUrl": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Healthy-Sleep-Habits-How-Many-Hours-Does-Your-Child-Need.aspx"
@@ -85,6 +92,7 @@
       "version": 1,
       "ageMinMonths": 0,
       "ageMaxMonths": 72,
+      "createdAt": "2026-10-28",
       "topics": ["man-hinh", "gia-dinh"],
       "sourceOrg": "HealthyChildren.org (AAP)",
       "sourceUrl": "https://www.healthychildren.org/English/family-life/Media/Pages/Healthy-Digital-Media-Use-Habits-for-Babies-Toddlers-Preschoolers.aspx"
@@ -96,6 +104,7 @@
       "version": 2,
       "ageMinMonths": 0,
       "ageMaxMonths": 36,
+      "createdAt": "2026-10-28",
       "topics": ["giac-ngu", "suc-khoe"],
       "sourceOrg": "",
       "sourceUrl": ""
