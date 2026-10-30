@@ -1,7 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
-       {
+    {
+      "id": "when-should-babies-start-solids",
+      "title": "Khi nào nên cho trẻ ăn dặm? Dấu hiệu sẵn sàng và cách bắt đầu an toàn",
+      "file": "articles/when-should-babies-start-solids.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 3,
+      "topics": ["suc-khoe","an-uong"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-many-ml-should-a-newborn-drink-per-feeding",
       "title": "Bé mới sinh bú bao nhiêu ml? Lượng sữa thay đổi thế nào trong tuần đầu?",
       "file": "articles/how-many-ml-should-a-newborn-drink-per-feeding.md",
