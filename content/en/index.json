@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "when-should-babies-start-solids",
+      "title": "When Should Babies Start Solid Foods? Signs of Readiness and Safe First Steps",
+      "file": "articles/when-should-babies-start-solids.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 3,
+      "topics": ["suc-khoe","an-uong"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "how-many-ml-should-a-newborn-drink-per-feeding",
       "title": "How Many Milliliters of Milk Should a Newborn Drink Per Feeding?",
