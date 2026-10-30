@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
   "articles": [
+       {
+      "id": "how-many-ml-should-a-newborn-drink-per-feeding",
+      "title": "Bé mới sinh bú bao nhiêu ml? Lượng sữa thay đổi thế nào trong tuần đầu?",
+      "file": "articles/how-many-ml-should-a-newborn-drink-per-feeding.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 3,
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "tantrum-toddler",
       "title": "Trẻ ăn vạ: vì sao và cách ứng phó",
