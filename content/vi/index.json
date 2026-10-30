@@ -2,6 +2,17 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-help-your-baby-sleep-through-the-night",
+      "title": "Làm sao để trẻ ngủ xuyên đêm? Hướng dẫn theo độ tuổi",
+      "file": "articles/how-to-help-your-baby-sleep-through-the-night.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 36,
+      "topics": ["suc-khoe","giac-ngu"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "when-should-babies-start-solids",
       "title": "Khi nào nên cho trẻ ăn dặm? Dấu hiệu sẵn sàng và cách bắt đầu an toàn",
       "file": "articles/when-should-babies-start-solids.md",
