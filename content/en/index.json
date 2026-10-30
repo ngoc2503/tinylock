@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "what-to-do-when-your-child-has-a-fever",
+      "title": "What to Do When Your Child Has a Fever: A Guide to Safe Care and Fever Management",
+      "file": "articles/what-to-do-when-your-child-has-a-fever.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-10-30",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "why-does-my-child-cry-for-no-apparent-reason",
       "title": "Why Does My Child Cry for No Apparent Reason? Causes and Ways to Help",
