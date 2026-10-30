@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-does-my-child-cry-for-no-apparent-reason",
+      "title": "Vì sao trẻ hay khóc vô cớ? Nguyên nhân và cách dỗ dành trẻ",
+      "file": "articles/why-does-my-child-cry-for-no-apparent-reason.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 60,
+      "createdAt": "2026-10-30",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-help-your-baby-sleep-through-the-night",
       "title": "Làm sao để trẻ ngủ xuyên đêm? Hướng dẫn theo độ tuổi",
       "file": "articles/how-to-help-your-baby-sleep-through-the-night.md",
