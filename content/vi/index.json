@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-when-your-child-has-a-fever",
+      "title": "Trẻ bị sốt phải làm sao? Hướng dẫn chăm sóc và hạ sốt an toàn cho trẻ",
+      "file": "articles/what-to-do-when-your-child-has-a-fever.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-10-30",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-does-my-child-cry-for-no-apparent-reason",
       "title": "Vì sao trẻ hay khóc vô cớ? Nguyên nhân và cách dỗ dành trẻ",
       "file": "articles/why-does-my-child-cry-for-no-apparent-reason.md",
