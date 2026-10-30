@@ -1,6 +1,17 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "how-to-help-your-baby-sleep-through-the-night",
+      "title": "How to Help Your Baby Sleep Through the Night: An Age-by-Age Guide",
+      "file": "articles/how-to-help-your-baby-sleep-through-the-night.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 36,
+      "topics": ["suc-khoe","giac-ngu"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "when-should-babies-start-solids",
       "title": "When Should Babies Start Solid Foods? Signs of Readiness and Safe First Steps",
