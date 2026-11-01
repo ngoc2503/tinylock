@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "is-vomiting-or-spitting-up-dangerous-for-children",
+      "title": "Trẻ bị nôn trớ có nguy hiểm không? Nguyên nhân, cách xử lý và dấu hiệu cần đi khám",
+      "file": "articles/is-vomiting-or-spitting-up-dangerous-for-children.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 144,
+      "createdAt": "2026-11-01",
+      "topics": ["suc-khoe","nuoi-day-con"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-develop-logical-thinking-in-children",
       "title": "Phát triển tư duy logic cho trẻ? 10 hoạt động đơn giản cha mẹ có thể áp dụng",
       "file": "articles/how-to-develop-logical-thinking-in-children.md",
