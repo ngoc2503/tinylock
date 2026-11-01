@@ -1,13 +1,25 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "how-to-develop-logical-thinking-in-children",
+      "title": "How to Develop Logical Thinking in Children: 10 Simple Activities for Parents",
+      "file": "articles/how-to-develop-logical-thinking-in-children.md",
+      "version": 1,
+      "ageMinMonths": 36,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-10-31",
+      "topics": ["hanh-vi","nuoi-day-con","ky-nang-xa-hoi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "what-to-do-when-child-keeps-hitting-others",
       "title": "What to Do When Your Child Keeps Hitting Other Children",
       "file": "articles/what-to-do-when-child-keeps-hitting-others.md",
       "version": 1,
       "ageMinMonths": 12,
-      "ageMaxMonths": 95,
+      "ageMaxMonths": 96,
       "createdAt": "2026-10-31",
       "topics": ["hanh-vi","nuoi-day-con","ky-nang-xa-hoi"],
       "sourceOrg": "",
