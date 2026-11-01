@@ -1,170 +1,170 @@
-Trẻ thường xuyên đánh, đẩy, cắn hoặc giành đồ chơi của bạn có thể khiến cha mẹ lo lắng, đặc biệt khi giáo viên liên tục phản ánh hoặc những trẻ khác bắt đầu né tránh con. Cha mẹ có thể cảm thấy xấu hổ, tức giận hoặc không biết phải làm gì để hành vi này chấm dứt.
+When a child repeatedly hits, pushes, bites, or grabs toys from other children, parents may feel worried, embarrassed, or unsure how to respond. The situation can become especially stressful when teachers report repeated incidents or other children begin avoiding their child.
 
-Tuy nhiên, **trẻ có hành vi đánh bạn không có nghĩa trẻ là một đứa trẻ hư**. Điều quan trọng là tìm hiểu nguyên nhân, ngăn hành vi gây tổn thương và dạy trẻ những cách tương tác phù hợp hơn. Nếu hành vi xảy ra thường xuyên, gây thương tích hoặc khó kiểm soát, cha mẹ nên chủ động tìm kiếm sự hỗ trợ.
+However, **a child who hits others is not necessarily a “bad child.”** The important steps are to understand what may be causing the behavior, prevent harm, and teach the child more appropriate ways to interact with others. When aggression is frequent, causes injuries, or is difficult to manage, parents should seek professional guidance.
 
-## 1. Vì sao trẻ thường xuyên đánh bạn?
+## 1. Why Does a Child Keep Hitting Other Children?
 
-Không có một nguyên nhân duy nhất giải thích mọi trường hợp. Hãy quan sát tình huống xảy ra trước, trong và sau mỗi lần trẻ đánh bạn để hiểu điều gì có thể đang thúc đẩy hành vi.
+There is no single explanation for every child’s behavior. Observe what happens before, during, and after each incident to identify possible triggers.
 
-### Trẻ chưa biết diễn đạt mong muốn
+### The child cannot express needs clearly
 
-Trẻ nhỏ có thể chưa đủ vốn từ để nói rằng mình muốn món đồ chơi, không thích bị chạm vào hoặc muốn người khác dừng lại. Khi chưa biết cách diễn đạt, trẻ đôi khi dùng hành động để thể hiện nhu cầu.
+Young children may not have enough language to say that they want a toy, dislike being touched, or need someone to stop. When they cannot communicate effectively, they may use physical actions to express their needs.
 
-### Trẻ khó chờ đợi và giải quyết xung đột
+### The child struggles with waiting and resolving conflicts
 
-Trẻ có thể đánh bạn khi phải chia sẻ đồ chơi, chờ đến lượt, thua trong trò chơi hoặc không được làm theo ý mình. Những kỹ năng như kiểm soát hành động bốc đồng, thương lượng và giải quyết bất đồng cần thời gian để phát triển và được người lớn hướng dẫn.
+A child may hit when asked to share a toy, wait for a turn, lose a game, or accept that things cannot always go their way. Skills such as impulse control, negotiation, and conflict resolution develop over time and require guidance from adults.
 
-### Trẻ bị quá tải hoặc gặp khó khăn trong sinh hoạt
+### The child is tired, overwhelmed, or experiencing changes
 
-Đói, thiếu ngủ, mệt mỏi, không gian ồn ào hoặc quá đông có thể khiến trẻ dễ mất kiểm soát hơn. Những thay đổi như bắt đầu đi học, chuyển lớp, có em bé mới hoặc thay đổi người chăm sóc cũng có thể khiến trẻ căng thẳng.
+Hunger, lack of sleep, fatigue, noisy environments, or crowded play areas can make it harder for a child to manage behavior. Changes such as starting school, moving to a new classroom, welcoming a new sibling, or changing caregivers may also cause stress.
 
-### Trẻ học theo những gì quan sát được
+### The child is copying behavior they have seen
 
-Trẻ có thể bắt chước cách người lớn giải quyết mâu thuẫn, hành vi của những trẻ khác hoặc nội dung bạo lực mà trẻ tiếp xúc. Nếu trẻ nhận được món đồ mình muốn sau khi đánh bạn, trẻ cũng có thể học rằng đánh là cách hiệu quả để đạt mục đích.
+Children may imitate how adults handle disagreements, how other children behave, or aggressive behavior they encounter in media. If hitting consistently helps a child get a desired toy or reaction, the child may also learn that hitting is an effective way to get what they want.
 
-### Trẻ đang gặp vấn đề cần được quan tâm
+### The child may be experiencing an underlying difficulty
 
-Đôi khi hành vi hung hăng liên quan đến khó khăn trong giao tiếp, quan hệ với bạn bè, căng thẳng, lo âu hoặc những trải nghiệm không an toàn. Không thể xác định nguyên nhân chỉ từ một hành vi; cha mẹ cần xem xét bối cảnh và trao đổi với người có chuyên môn khi cần thiết.
+Repeated aggression can sometimes be associated with communication difficulties, friendship problems, stress, anxiety, or unsafe experiences. Hitting alone cannot identify the cause. Parents should consider the broader context and seek professional advice when appropriate.
 
-## 2. Cha mẹ nên làm gì ngay khi trẻ đánh bạn?
+## 2. What Should Parents Do When Their Child Hits Someone?
 
-### Bước 1: Ngăn hành vi và bảo đảm an toàn
+### Step 1: Stop the behavior and protect everyone
 
-Bình tĩnh nhưng dứt khoát tách hai trẻ ra nếu cần. Đứng giữa, giữ khoảng cách an toàn hoặc nhẹ nhàng chặn tay trẻ để ngăn hành vi tiếp diễn. Nếu tình huống nguy hiểm, hãy nhờ người lớn hỗ trợ.
+Stay calm but firm. Separate the children when necessary, position yourself between them, or gently block the child’s hands to prevent further hitting. If the situation is dangerous, ask another adult for help.
 
-Không nên chỉ đứng nhìn với hy vọng trẻ tự giải quyết nếu một trẻ đang bị đánh hoặc có nguy cơ bị thương.
+Do not simply watch and hope the children will work things out if one child is being hurt or is at risk of injury.
 
-### Bước 2: Nói rõ giới hạn bằng câu ngắn gọn
+### Step 2: Set a clear limit using simple words
 
-Khi trẻ đang kích động, giải thích dài dòng thường không hiệu quả. Hãy dùng giọng bình tĩnh và những câu dễ hiểu, chẳng hạn:
+Long explanations are often ineffective while a child is upset. Use a calm voice and short, clear statements, such as:
 
-- “Mẹ không để con đánh bạn.”
-- “Đánh làm bạn đau.”
-- “Con đang tức giận, nhưng con không được dùng tay làm đau người khác.”
+- “I won't let you hit your friend.”
+- “Hitting hurts.”
+- “You can feel angry, but you cannot hurt someone with your hands.”
 
-Thừa nhận cảm xúc không có nghĩa là chấp nhận hành vi gây tổn thương. Quy tắc cần rõ ràng và được áp dụng nhất quán.
+Acknowledging a child’s feelings does not mean accepting harmful behavior. The rule should be clear and consistently enforced.
 
-### Bước 3: Quan tâm đến trẻ bị đánh
+### Step 3: Check on the child who was hurt
 
-Kiểm tra xem bạn của trẻ có bị đau hoặc cần hỗ trợ y tế không. Hãy chăm sóc trẻ bị thương trước khi chuyển sang giải quyết hành vi của con mình.
+Check whether the other child is injured or needs medical attention. Attend to the injured child before addressing your own child’s behavior in detail.
 
-Cách xử lý này giúp trẻ hiểu rằng khi ai đó bị tổn thương, người lớn ưu tiên sự an toàn chứ không xem hành vi đánh bạn là chuyện nhỏ.
+This teaches children that adults take safety seriously and do not dismiss physical harm as unimportant.
 
-### Bước 4: Để trẻ bình tĩnh trước khi trò chuyện
+### Step 4: Wait until your child is calm before talking
 
-Khi trẻ vẫn đang kích động, hãy đưa trẻ ra khỏi tình huống xung đột và ở gần để bảo đảm an toàn. Có thể cho trẻ tạm dừng cuộc chơi hoặc ngồi ở một nơi yên tĩnh có người lớn giám sát.
+If your child is still highly upset, move them away from the conflict and stay nearby to maintain safety. They may need a break from playing or a quiet place with adult supervision.
 
-Khi trẻ bình tĩnh hơn, hãy nói ngắn gọn về điều đã xảy ra và cách trẻ có thể làm khác đi. Không nên ép trẻ giải thích ngay khi chưa sẵn sàng.
+Once your child is calmer, briefly discuss what happened and what they could do differently next time. Avoid demanding an explanation before the child is ready to communicate.
 
-### Bước 5: Giúp trẻ sửa chữa hậu quả
+### Step 5: Help your child repair the harm
 
-Tùy theo độ tuổi và khả năng hiểu biết, cha mẹ có thể hướng dẫn trẻ:
+Depending on the child’s age and understanding, guide them to:
 
-- Hỏi xem bạn có đau không.
-- Lấy khăn giấy hoặc nhờ người lớn giúp bạn.
-- Trả lại đồ chơi đã giành.
-- Nói lời xin lỗi khi trẻ đã hiểu hành động của mình gây tổn thương.
-- Thực hành một cách phản ứng phù hợp hơn cho lần sau.
+- Ask whether the other child is hurt.
+- Get a tissue or ask an adult to help the injured child.
+- Return a toy they took.
+- Apologize once they understand how their actions affected someone else.
+- Practice a more appropriate response for next time.
 
-Đừng chỉ ép trẻ nói “xin lỗi” để kết thúc sự việc. Mục tiêu là giúp trẻ hiểu hành động của mình ảnh hưởng đến người khác như thế nào và học cách khắc phục hậu quả.
+Do not force a quick “sorry” just to end the incident. The goal is to help the child understand the impact of their actions and learn how to make things right.
 
-## 3. Dạy trẻ cách giải quyết xung đột mà không đánh bạn
+## 3. Teach Your Child to Resolve Conflicts Without Hitting
 
-Việc ngăn chặn hành vi trong lúc xảy ra xung đột là cần thiết, nhưng để hành vi thay đổi lâu dài, trẻ cần được học những lựa chọn thay thế.
+Stopping aggression in the moment is essential, but lasting change also requires teaching children what they can do instead.
 
-### Dạy trẻ dùng lời nói
+### Teach your child to use words
 
-Hãy tập cho trẻ những câu phù hợp với độ tuổi:
+Practice simple, age-appropriate phrases such as:
 
-- “Mình đang chơi, đến lượt mình nhé.”
-- “Cho mình chơi cùng được không?”
-- “Mình không thích bạn lấy đồ chơi.”
-- “Dừng lại nhé, bạn làm mình đau.”
-- “Cô ơi, con cần giúp đỡ.”
+- “I’m still playing with that. It’s my turn.”
+- “Can I play with you?”
+- “I don't like it when you take my toy.”
+- “Please stop. That hurts.”
+- “Teacher, I need help.”
 
-Với trẻ chưa nói thành câu, cha mẹ có thể dạy trẻ chỉ tay, dùng cử chỉ, đưa đồ vật cho người lớn hoặc sử dụng những từ ngắn như “không”, “giúp con” và “đến lượt con”.
+For children who cannot yet speak in sentences, teach them to point, use gestures, bring an object to an adult, or use simple words such as “no,” “help,” and “my turn.”
 
-### Tập đóng vai những tình huống thường gặp
+### Role-play common conflicts
 
-Khi ở nhà và trẻ đang vui vẻ, hãy cùng trẻ đóng vai tranh giành đồ chơi, phải chờ đến lượt hoặc bị bạn từ chối. Người lớn làm mẫu cách nói và cách xử lý, sau đó để trẻ thực hành.
+At home, when your child is calm and happy, practice situations such as sharing toys, waiting for a turn, or being told no. Model appropriate words and actions, then let your child practice.
 
-Luyện tập lúc bình tĩnh giúp trẻ dễ nhớ cách ứng xử hơn so với chỉ được nhắc nhở sau mỗi lần đánh bạn.
+Learning these skills during calm moments makes them easier to remember than relying only on reminders after an incident.
 
-### Khen cụ thể khi trẻ cư xử phù hợp
+### Praise appropriate behavior specifically
 
-Thay vì chỉ nhắc đến những lần trẻ làm sai, hãy chú ý khi trẻ biết chờ đợi, nhờ giúp đỡ, chia sẻ hoặc dừng lại khi được yêu cầu.
+Instead of focusing only on mistakes, notice when your child waits, asks for help, shares, or stops when asked.
 
-Ví dụ: “Mẹ thấy con đã nói với bạn thay vì giành đồ chơi. Con đã chọn cách rất tốt.”
+For example: “I noticed you asked your friend instead of grabbing the toy. That was a good choice.”
 
-Lời khen cụ thể giúp trẻ hiểu hành vi nào được mong đợi và khuyến khích trẻ tiếp tục thực hiện.
+Specific praise helps children understand which behaviors are expected and encourages them to repeat those behaviors.
 
-### Làm gương trong gia đình
+### Model respectful behavior at home
 
-Người lớn nên giải quyết bất đồng bằng lời nói, tôn trọng ranh giới của nhau và tránh dùng đòn roi để dạy trẻ không được đánh người khác. Nếu trẻ thường xuyên chứng kiến việc quát mắng, đe dọa hoặc đánh nhau, hãy xem xét cách giảm những trải nghiệm này.
+Adults should handle disagreements with words, respect one another’s boundaries, and avoid physical punishment when teaching children not to hit. If a child frequently witnesses shouting, threats, or physical aggression, consider how to reduce their exposure to these experiences.
 
-**Không đánh, tát hoặc làm nhục trẻ để trừng phạt hành vi đánh bạn.** Điều đó có thể khiến trẻ học rằng người mạnh hơn được phép dùng bạo lực để giải quyết vấn đề.
+**Do not hit, slap, or humiliate a child to punish them for hitting others.** This may teach children that people who are stronger are allowed to use violence to solve problems.
 
-## 4. Tìm nguyên nhân bằng cách quan sát hành vi
+## 4. Identify Patterns by Observing the Behavior
 
-Nếu trẻ thường xuyên đánh bạn, cha mẹ nên ghi lại những tình huống xảy ra trong khoảng một đến hai tuần, nếu việc theo dõi này không làm chậm trễ việc tìm kiếm hỗ trợ cần thiết.
+If your child frequently hits others, consider keeping a record of incidents over one to two weeks, provided that doing so does not delay necessary support.
 
-Có thể ghi lại:
+Record the following:
 
-- **Thời điểm:** Hành vi xảy ra khi chơi tự do, trong giờ học, lúc chuyển hoạt động hay cuối ngày?
-- **Tình huống trước đó:** Trẻ bị giành đồ chơi, phải chờ đợi, bị từ chối hay có dấu hiệu mệt mỏi?
-- **Hành vi cụ thể:** Trẻ đánh, đẩy, cắn hay ném đồ vật? Mức độ nghiêm trọng ra sao?
-- **Phản ứng sau đó:** Người lớn đã làm gì? Trẻ có nhận được món đồ hoặc sự chú ý mà mình muốn không?
-- **Điều giúp ích:** Tách trẻ khỏi tình huống, nhắc quy tắc, hỗ trợ bằng lời nói hay nghỉ ngơi có giúp giảm hành vi không?
+- **When it happens:** Does the behavior occur during free play, lessons, transitions between activities, or at the end of the day?
+- **What happened beforehand:** Was a toy taken away? Did the child have to wait, hear “no,” or show signs of fatigue?
+- **What the child did:** Did they hit, push, bite, or throw objects? How serious was the incident?
+- **What happened afterward:** How did adults respond? Did the child receive the toy or attention they wanted?
+- **What helped:** Did separating the children, reminding the child of the rule, teaching a phrase, or allowing rest reduce the behavior?
 
-Mục đích không phải để dán nhãn trẻ mà để phát hiện quy luật và lựa chọn biện pháp phù hợp. Không nên kết luận rằng trẻ có vấn đề tâm lý hoặc rối loạn phát triển chỉ dựa trên những ghi chép này.
+The purpose is to identify patterns and choose appropriate strategies, not to label the child. These observations alone cannot establish that a child has a mental health condition or developmental disorder.
 
-## 5. Phối hợp với giáo viên và người chăm sóc
+## 5. Work With Teachers and Other Caregivers
 
-Nếu trẻ đánh bạn ở trường hoặc nơi giữ trẻ, cha mẹ nên trao đổi với giáo viên một cách cụ thể và bình tĩnh.
+If your child hits others at school or in childcare, discuss the situation calmly and specifically with the teacher.
 
-Hãy cùng tìm hiểu:
+Together, try to understand:
 
-- Hành vi xảy ra với một bạn hay nhiều bạn?
-- Có tình huống nào thường xuyên dẫn đến xung đột không?
-- Trẻ có gặp khó khăn khi giao tiếp, tham gia nhóm hoặc chuyển hoạt động không?
-- Người lớn thường phản ứng thế nào sau mỗi lần xảy ra sự việc?
-- Gia đình và nhà trường có thể áp dụng cùng một quy tắc và cách hướng dẫn nào?
+- Does the behavior involve one child or several children?
+- Are there recurring situations that trigger conflicts?
+- Does your child struggle with communication, group activities, or transitions?
+- How do adults usually respond after an incident?
+- What consistent rules and strategies can the family and school use?
 
-Gia đình và giáo viên nên thống nhất quy tắc đơn giản, cách ngăn hành vi, cách hướng dẫn trẻ thay thế hành vi đánh bạn và cách ghi nhận tiến bộ.
+Parents and teachers should agree on simple rules, ways to stop unsafe behavior, alternative skills to teach, and ways to recognize progress.
 
-Không nên chỉ trách phạt trẻ hoặc yêu cầu trẻ khác tự tránh xa trẻ. Cần bảo vệ các bạn, đồng thời tìm cách hỗ trợ trẻ thay đổi hành vi.
+Avoid simply blaming or punishing the child, or expecting other children to stay away from them. The goal is to protect everyone while helping the child change the behavior.
 
-## 6. Khi nào cần tìm sự hỗ trợ chuyên môn?
+## 6. When Should Parents Seek Professional Help?
 
-Cha mẹ nên trao đổi với bác sĩ nhi khoa hoặc chuyên gia tâm lý trẻ em khi:
+Talk to a pediatrician or child mental health professional if:
 
-- Hành vi đánh bạn xảy ra thường xuyên, kéo dài nhiều tuần hoặc ngày càng nghiêm trọng.
-- Trẻ gây thương tích, dùng vật dụng để làm đau người khác hoặc khó dừng lại khi được yêu cầu.
-- Trẻ thường xuyên đánh cả người lớn, anh chị em hoặc những trẻ khác trong nhiều môi trường.
-- Hành vi khiến trẻ bị loại khỏi các hoạt động, không thể tham gia học tập hoặc ảnh hưởng nghiêm trọng đến quan hệ bạn bè.
-- Trẻ có khó khăn rõ rệt trong giao tiếp, tương tác xã hội hoặc kiểm soát hành vi.
-- Hành vi xuất hiện đột ngột sau một thay đổi lớn hoặc cha mẹ nghi ngờ trẻ đang bị bắt nạt, bạo hành hay gặp tình huống không an toàn.
+- Hitting happens frequently, continues for several weeks, or becomes more severe.
+- Your child injures others, uses objects to hurt someone, or struggles to stop when asked.
+- Your child repeatedly hits adults, siblings, or other children in multiple settings.
+- The behavior leads to exclusion from activities, prevents participation in learning, or seriously affects friendships.
+- Your child has significant communication, social interaction, or behavioral regulation difficulties.
+- The behavior begins suddenly after a major change, or you suspect bullying, abuse, or another unsafe situation.
 
-Nếu có nguy cơ gây thương tích ngay lập tức, hãy ưu tiên tách trẻ khỏi tình huống nguy hiểm và tìm sự trợ giúp phù hợp. Nếu nghi ngờ trẻ bị bạo hành hoặc không an toàn, cần bảo vệ trẻ và liên hệ dịch vụ hỗ trợ tại địa phương.
+If someone is in immediate danger, separate the children and seek appropriate assistance. If you suspect your child is being abused or is unsafe, prioritize their protection and contact local support services.
 
-Tìm kiếm sự trợ giúp không đồng nghĩa với việc trẻ chắc chắn mắc một rối loạn nào đó. Chuyên gia có thể giúp đánh giá nguyên nhân và hướng dẫn cha mẹ những chiến lược phù hợp với độ tuổi, hoàn cảnh và nhu cầu của trẻ.
+Seeking help does not mean your child necessarily has a disorder. A professional can help assess possible causes and recommend strategies that fit the child’s age, circumstances, and needs.
 
-## 7. Những điều cha mẹ nên tránh
+## 7. Common Mistakes Parents Should Avoid
 
-- **Đánh lại trẻ:** Làm mẫu cho chính hành vi mà cha mẹ muốn trẻ ngừng thực hiện.
-- **Gọi trẻ là “đứa trẻ hư” hoặc “đứa hay bắt nạt”:** Tập trung vào hành vi cụ thể thay vì biến hành vi thành nhãn dán về con người trẻ.
-- **Quát mắng hoặc làm nhục trước mặt người khác:** Có thể khiến trẻ xấu hổ, sợ hãi nhưng không dạy trẻ cách giải quyết xung đột.
-- **Bỏ qua vì nghĩ trẻ còn nhỏ:** Một số hành vi có thể xuất hiện trong quá trình phát triển, nhưng vẫn cần ngăn chặn và hướng dẫn để bảo vệ mọi trẻ.
-- **Chỉ yêu cầu trẻ xin lỗi:** Trẻ cần hiểu hậu quả và học cách thay thế hành vi, không chỉ lặp lại một câu nói.
-- **Phản ứng mỗi lần một kiểu:** Quy tắc và hậu quả cần rõ ràng, phù hợp với độ tuổi và nhất quán giữa những người chăm sóc.
+- **Hitting the child back:** This models the very behavior you want the child to stop.
+- **Calling the child “bad” or “a bully”:** Focus on the specific behavior rather than defining the child by it.
+- **Shouting at or humiliating the child in public:** This may create shame or fear without teaching conflict-resolution skills.
+- **Ignoring the behavior because the child is young:** Some aggression may occur during development, but adults still need to intervene and teach safer behavior.
+- **Only demanding an apology:** Children need to understand the consequences of their actions and practice alternatives, not merely repeat a phrase.
+- **Responding differently each time:** Rules and consequences should be clear, age-appropriate, and consistent across caregivers.
 
-## Kết luận
+## Conclusion
 
-Trẻ thường xuyên đánh bạn cần được hướng dẫn nghiêm túc nhưng không phải bằng sự sỉ nhục hay bạo lực. Cha mẹ nên ngăn hành vi gây tổn thương ngay lập tức, đặt giới hạn rõ ràng, tìm hiểu nguyên nhân và dạy trẻ cách diễn đạt nhu cầu, giải quyết bất đồng bằng lời nói.
+A child who repeatedly hits others needs firm, thoughtful guidance—not humiliation or violence. Parents should stop harmful behavior immediately, set clear limits, identify possible triggers, and teach children to communicate their needs and resolve disagreements with words.
 
-Sự thay đổi có thể cần thời gian. Hãy theo dõi tiến bộ, phối hợp với giáo viên và tìm sự hỗ trợ chuyên môn nếu hành vi kéo dài, nghiêm trọng hoặc ảnh hưởng đến sự an toàn của trẻ và những người xung quanh.
+Change may take time. Monitor progress, work with teachers, and seek professional guidance if the behavior persists, becomes severe, or affects the safety of the child and others.
 
-### Nguồn tham khảo
+### References
 
 - [American Academy of Pediatrics – 10 Tips to Prevent Aggressive Behavior in Young Children](https://www.healthychildren.org/English/ages-stages/toddler/Pages/Aggressive-Behavior.aspx)
 - [American Academy of Child and Adolescent Psychiatry – Fighting and Biting](https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Fighting-And-Biting-081.aspx)
