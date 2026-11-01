@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "is-vomiting-or-spitting-up-dangerous-for-children",
+      "title": "Is Vomiting or Spitting Up Dangerous for Children? Causes, Home Care, and Warning Signs",
+      "file": "articles/is-vomiting-or-spitting-up-dangerous-for-children.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 144,
+      "createdAt": "2026-11-01",
+      "topics": ["suc-khoe","nuoi-day-con"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-develop-logical-thinking-in-children",
       "title": "How to Develop Logical Thinking in Children: 10 Simple Activities for Parents",
       "file": "articles/how-to-develop-logical-thinking-in-children.md",
