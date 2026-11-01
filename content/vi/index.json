@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "when-can-babies-drink-water",
+      "title": "Trẻ mấy tháng uống được nước? Hướng dẫn theo độ tuổi",
+      "file": "articles/when-can-babies-drink-water.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 12,
+      "createdAt": "2026-11-01",
+      "topics": ["suc-khoe","dinh-duong"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "is-vomiting-or-spitting-up-dangerous-for-children",
       "title": "Trẻ bị nôn trớ có nguy hiểm không? Nguyên nhân, cách xử lý và dấu hiệu cần đi khám",
       "file": "articles/is-vomiting-or-spitting-up-dangerous-for-children.md",
