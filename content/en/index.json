@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "when-can-babies-drink-water",
+      "title": "When Can Babies Drink Water? An Age-by-Age Guide",
+      "file": "articles/when-can-babies-drink-water.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 12,
+      "createdAt": "2026-11-01",
+      "topics": ["suc-khoe","dinh-duong"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "is-vomiting-or-spitting-up-dangerous-for-children",
       "title": "Is Vomiting or Spitting Up Dangerous for Children? Causes, Home Care, and Warning Signs",
       "file": "articles/is-vomiting-or-spitting-up-dangerous-for-children.md",
