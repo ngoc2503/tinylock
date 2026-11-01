@@ -2,12 +2,24 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-develop-logical-thinking-in-children",
+      "title": "Phát triển tư duy logic cho trẻ? 10 hoạt động đơn giản cha mẹ có thể áp dụng",
+      "file": "articles/how-to-develop-logical-thinking-in-children.md",
+      "version": 1,
+      "ageMinMonths": 36,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-10-31",
+      "topics": ["hanh-vi","nuoi-day-con","ky-nang-xa-hoi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "what-to-do-when-child-keeps-hitting-others",
       "title": "Trẻ thường xuyên đánh bạn? Nguyên nhân và cách giúp trẻ thay đổi",
       "file": "articles/what-to-do-when-child-keeps-hitting-others.md",
       "version": 1,
       "ageMinMonths": 12,
-      "ageMaxMonths": 95,
+      "ageMaxMonths": 96,
       "createdAt": "2026-10-31",
       "topics": ["hanh-vi","nuoi-day-con","ky-nang-xa-hoi"],
       "sourceOrg": "",
