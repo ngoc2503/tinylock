@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-if-child-is-growing-slowly",
+      "title": "Trẻ chậm tăng chiều cao phải làm sao? Nguyên nhân và cách cải thiện",
+      "file": "articles/what-to-do-if-child-is-growing-slowly.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-01",
+      "topics": ["suc-khoe","dinh-duong","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "when-can-babies-drink-water",
       "title": "Trẻ mấy tháng uống được nước? Hướng dẫn theo độ tuổi",
       "file": "articles/when-can-babies-drink-water.md",
