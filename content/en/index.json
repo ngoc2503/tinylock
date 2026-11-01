@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-if-child-is-growing-slowly",
+      "title": "What to Do If Your Child Is Growing Slowly: Causes and Practical Steps",
+      "file": "articles/what-to-do-if-child-is-growing-slowly.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-01",
+      "topics": ["suc-khoe","dinh-duong","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "when-can-babies-drink-water",
       "title": "When Can Babies Drink Water? An Age-by-Age Guide",
       "file": "articles/when-can-babies-drink-water.md",
