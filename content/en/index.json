@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "why-is-my-child-shy-or-afraid-of-strangers",
+      "title": "Why Is My Child Shy or Afraid of Strangers? Causes and Ways to Build Confidence",
+      "file": "articles/why-is-my-child-shy-or-afraid-of-strangers.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-03",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "what-to-do-when-child-sleeps-during-day-and-stays-awake-at-night",
       "title": "What to Do When Your Child Sleeps During the Day and Stays Awake at Night",
