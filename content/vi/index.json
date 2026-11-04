@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-is-my-child-shy-or-afraid-of-strangers",
+      "title": "Vì sao trẻ nhút nhát, sợ người lạ? Nguyên nhân và cách giúp trẻ tự tin hơn",
+      "file": "articles/why-is-my-child-shy-or-afraid-of-strangers.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-03",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "what-to-do-when-child-sleeps-during-day-and-stays-awake-at-night",
       "title": "Trẻ ngủ ngày nhiều, đêm thức phải làm sao? Nguyên nhân và cách điều chỉnh",
       "file": "articles/what-to-do-when-child-sleeps-during-day-and-stays-awake-at-night.md",
