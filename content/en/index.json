@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
      {
+      "id": "how-to-limit-child-phone-use",
+      "title": "How to Limit Your Child’s Phone Use: 10 Practical Ways to Reduce Screen Time",
+      "file": "articles/how-to-limit-child-phone-use.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-03",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+     {
       "id": "why-does-child-scream-when-things-dont-go-their-way",
       "title": "Why Does My Child Scream When Things Don't Go Their Way? Causes and How to Respond",
       "file": "articles/why-does-child-scream-when-things-dont-go-their-way.md",
