@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-does-child-scream-when-things-dont-go-their-way",
+      "title": "Trẻ hay la hét khi không vừa ý? Nguyên nhân và cách xử lý hiệu quả",
+      "file": "articles/why-does-child-scream-when-things-dont-go-their-way.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-03",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-is-my-child-shy-or-afraid-of-strangers",
       "title": "Vì sao trẻ nhút nhát, sợ người lạ? Nguyên nhân và cách giúp trẻ tự tin hơn",
       "file": "articles/why-is-my-child-shy-or-afraid-of-strangers.md",
