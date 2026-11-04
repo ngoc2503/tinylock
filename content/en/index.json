@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
      {
+      "id": "why-does-child-scream-when-things-dont-go-their-way",
+      "title": "Why Does My Child Scream When Things Don't Go Their Way? Causes and How to Respond",
+      "file": "articles/why-does-child-scream-when-things-dont-go-their-way.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-03",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+     {
       "id": "why-is-my-child-shy-or-afraid-of-strangers",
       "title": "Why Is My Child Shy or Afraid of Strangers? Causes and Ways to Build Confidence",
       "file": "articles/why-is-my-child-shy-or-afraid-of-strangers.md",
