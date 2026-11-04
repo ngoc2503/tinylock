@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-limit-child-phone-use",
+      "title": "Làm sao để hạn chế trẻ xem điện thoại? 10 cách giúp trẻ giảm thời gian sử dụng màn hình",
+      "file": "articles/how-to-limit-child-phone-use.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-03",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-does-child-scream-when-things-dont-go-their-way",
       "title": "Trẻ hay la hét khi không vừa ý? Nguyên nhân và cách xử lý hiệu quả",
       "file": "articles/why-does-child-scream-when-things-dont-go-their-way.md",
