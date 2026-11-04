@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-when-child-is-constipated",
+      "title": "Trẻ bị táo bón. Nguyên nhân, cách xử lý và phòng ngừa",
+      "file": "articles/what-to-do-when-child-is-constipated.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-02",
+      "topics": ["suc-khoe","dinh-duong"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "what-to-do-if-child-is-growing-slowly",
       "title": "Trẻ chậm tăng chiều cao phải làm sao? Nguyên nhân và cách cải thiện",
       "file": "articles/what-to-do-if-child-is-growing-slowly.md",
