@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-when-child-sleeps-during-day-and-stays-awake-at-night",
+      "title": "Trẻ ngủ ngày nhiều, đêm thức phải làm sao? Nguyên nhân và cách điều chỉnh",
+      "file": "articles/what-to-do-when-child-sleeps-during-day-and-stays-awake-at-night.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 36,
+      "createdAt": "2026-11-02",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-tell-if-baby-is-getting-enough-milk",
       "title": "Làm thế nào để biết trẻ bú đủ sữa? 7 dấu hiệu cha mẹ cần biết",
       "file": "articles/how-to-tell-if-baby-is-getting-enough-milk.md",
