@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "when-does-child-start-teething-and-delayed-tooth-eruption",
+      "title": "When Do Babies Start Teething? Signs of Delayed Tooth Eruption and What Parents Should Do",
+      "file": "articles/when-does-child-start-teething-and-delayed-tooth-eruption.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 36,
+      "createdAt": "2026-11-04",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "how-to-limit-child-phone-use",
       "title": "How to Limit Your Child’s Phone Use: 10 Practical Ways to Reduce Screen Time",
