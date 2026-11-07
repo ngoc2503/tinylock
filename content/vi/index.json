@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+      {
+      "id": "6-month-baby-weaning-meal-plan",
+      "title": "Thực đơn ăn dặm cho bé 6 tháng gồm những gì?",
+      "file": "articles/6-month-baby-weaning-meal-plan.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 12,
+      "createdAt": "2026-11-05",
+      "topics": ["suc-khoe","an-uong"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "what-to-do-when-child-has-skin-allergy",
       "title": "Trẻ bị dị ứng da phải làm sao? Cách chăm sóc và dấu hiệu cần đi khám",
