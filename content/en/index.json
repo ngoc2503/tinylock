@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "is-child-snoring-dangerous",
+      "title": "Is Snoring in Children Dangerous? Causes, Warning Signs and What Parents Should Do",
+      "file": "articles/is-child-snoring-dangerous.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-05",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "6-month-baby-weaning-meal-plan",
       "title": "What Should a 6-Month-Old Baby Eat? A Practical Weaning Meal Plan",
       "file": "articles/6-month-baby-weaning-meal-plan.md",
