@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "is-child-snoring-dangerous",
+      "title": "Trẻ ngủ ngáy có nguy hiểm không? Nguyên nhân, dấu hiệu cảnh báo và cách xử lý",
+      "file": "articles/is-child-snoring-dangerous.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-05",
+      "topics": ["suc-khoe","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
       {
       "id": "6-month-baby-weaning-meal-plan",
       "title": "Thực đơn ăn dặm cho bé 6 tháng gồm những gì?",
