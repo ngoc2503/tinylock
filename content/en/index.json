@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-when-child-has-diarrhea",
+      "title": "What Should You Do When Your Child Has Diarrhea? Home Care, Rehydration, and Warning Signs",
+      "file": "articles/what-to-do-when-child-has-diarrhea.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-04",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "when-does-child-start-teething-and-delayed-tooth-eruption",
       "title": "When Do Babies Start Teething? Signs of Delayed Tooth Eruption and What Parents Should Do",
       "file": "articles/when-does-child-start-teething-and-delayed-tooth-eruption.md",
