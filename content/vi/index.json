@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "what-to-do-when-child-has-skin-allergy",
+      "title": "Trẻ bị dị ứng da phải làm sao? Cách chăm sóc và dấu hiệu cần đi khám",
+      "file": "articles/what-to-do-when-child-has-skin-allergy.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-04",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "what-to-do-when-child-has-diarrhea",
       "title": "Trẻ bị tiêu chảy phải làm sao? Cách chăm sóc, bù nước và dấu hiệu cần đi khám",
