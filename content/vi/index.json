@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "when-does-child-start-teething-and-delayed-tooth-eruption",
+      "title": "Khi nào trẻ mọc răng? Dấu hiệu chậm mọc răng và cha mẹ cần làm gì?",
+      "file": "articles/when-does-child-start-teething-and-delayed-tooth-eruption.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 36,
+      "createdAt": "2026-11-04",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-limit-child-phone-use",
       "title": "Làm sao để hạn chế trẻ xem điện thoại? 10 cách giúp trẻ giảm thời gian sử dụng màn hình",
       "file": "articles/how-to-limit-child-phone-use.md",
