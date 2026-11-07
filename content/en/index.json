@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-when-child-has-skin-allergy",
+      "title": "What Should You Do If Your Child Has a Skin Allergy? Home Care and Warning Signs",
+      "file": "articles/what-to-do-when-child-has-skin-allergy.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-04",
+      "topics": ["suc-khoe"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "what-to-do-when-child-has-diarrhea",
       "title": "What Should You Do When Your Child Has Diarrhea? Home Care, Rehydration, and Warning Signs",
       "file": "articles/what-to-do-when-child-has-diarrhea.md",
