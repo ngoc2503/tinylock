@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-to-do-when-child-has-cough-and-runny-nose",
+      "title": "What Should You Do If Your Child Has a Cough and Runny Nose? Home Care and Warning Signs",
+      "file": "articles/what-to-do-when-child-has-cough-and-runny-nose.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-06",
+      "topics": ["suc-khoe","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-teach-children-to-recognize-letters-and-numbers",
       "title": "How to Teach Children to Recognize Letters and Numbers: 10 Simple and Effective Activities at Home",
       "file": "articles/how-to-teach-children-to-recognize-letters-and-numbers.md",
