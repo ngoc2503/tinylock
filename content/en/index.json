@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-teach-children-to-recognize-letters-and-numbers",
+      "title": "How to Teach Children to Recognize Letters and Numbers: 10 Simple and Effective Activities at Home",
+      "file": "articles/how-to-teach-children-to-recognize-letters-and-numbers.md",
+      "version": 1,
+      "ageMinMonths": 36,
+      "ageMaxMonths": 72,
+      "createdAt": "2026-11-06",
+      "topics": ["giao-duc","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "is-child-snoring-dangerous",
       "title": "Is Snoring in Children Dangerous? Causes, Warning Signs and What Parents Should Do",
       "file": "articles/is-child-snoring-dangerous.md",
