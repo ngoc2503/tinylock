@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "when-do-babies-start-rolling-over",
+      "title": "At What Age Do Babies Start Rolling Over? Signs and Safe Ways to Encourage Rolling",
+      "file": "articles/when-do-babies-start-rolling-over.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 12,
+      "createdAt": "2026-11-07",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "what-to-do-if-your-child-is-a-picky-eater",
       "title": "What Should You Do If Your Child Is a Picky Eater? Causes and Ways to Improve Their Appetite",
