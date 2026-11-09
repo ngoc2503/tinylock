@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "what-to-do-if-your-child-is-a-picky-eater",
+      "title": "What Should You Do If Your Child Is a Picky Eater? Causes and Ways to Improve Their Appetite",
+      "file": "articles/what-to-do-if-your-child-is-a-picky-eater.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-07",
+      "topics": ["an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "what-to-do-when-child-has-cough-and-runny-nose",
       "title": "What Should You Do If Your Child Has a Cough and Runny Nose? Home Care and Warning Signs",
