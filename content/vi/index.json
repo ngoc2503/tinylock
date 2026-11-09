@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "how-to-teach-children-to-recognize-letters-and-numbers",
+      "title": "Cách dạy trẻ nhận biết chữ cái và con số: 10 phương pháp đơn giản, hiệu quả tại nhà",
+      "file": "articles/how-to-teach-children-to-recognize-letters-and-numbers.md",
+      "version": 1,
+      "ageMinMonths": 36,
+      "ageMaxMonths": 72,
+      "createdAt": "2026-11-06",
+      "topics": ["giao-duc","hanh-vi"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "is-child-snoring-dangerous",
       "title": "Trẻ ngủ ngáy có nguy hiểm không? Nguyên nhân, dấu hiệu cảnh báo và cách xử lý",
