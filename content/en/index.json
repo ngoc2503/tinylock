@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
      {
+      "id": "how-to-teach-child-to-clean-up-toys",
+      "title": "How to Teach Your Child to Clean Up Toys: 10 Ways to Build Independent Habits",
+      "file": "articles/how-to-teach-child-to-clean-up-toys.md",
+      "version": 1,
+      "ageMinMonths": 24,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-09",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+     {
       "id": "how-to-teach-child-to-self-feed",
       "title": "How to Teach Your Child to Self-Feed: A Step-by-Step Guide by Age",
       "file": "articles/how-to-teach-child-to-self-feed.md",
