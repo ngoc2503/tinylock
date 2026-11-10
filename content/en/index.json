@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "how-to-teach-child-to-self-feed",
+      "title": "How to Teach Your Child to Self-Feed: A Step-by-Step Guide by Age",
+      "file": "articles/how-to-teach-child-to-self-feed.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 48,
+      "createdAt": "2026-11-08",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "what-to-do-if-child-swallows-a-foreign-object",
       "title": "What Should You Do If Your Child Swallows a Foreign Object? First Aid and Emergency Warning Signs",
