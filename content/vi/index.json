@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-teach-child-to-clean-up-toys",
+      "title": "Làm sao để trẻ tự giác dọn đồ chơi? 10 cách giúp trẻ hình thành thói quen ngăn nắp",
+      "file": "articles/how-to-teach-child-to-clean-up-toys.md",
+      "version": 1,
+      "ageMinMonths": 24,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-09",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-teach-child-to-self-feed",
       "title": "Dạy trẻ tự xúc ăn như thế nào? Các bước rèn luyện theo từng độ tuổi",
       "file": "articles/how-to-teach-child-to-self-feed.md",
