@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "what-to-do-if-child-swallows-a-foreign-object",
+      "title": "Trẻ nuốt phải dị vật phải làm sao? Cách xử trí đúng và dấu hiệu cần cấp cứu",
+      "file": "articles/what-to-do-if-child-swallows-a-foreign-object.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-08",
+      "topics": ["an-toan-tre-nho","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "when-do-babies-start-rolling-over",
       "title": "Trẻ mấy tháng biết lẫy? Dấu hiệu nhận biết và cách tập lẫy an toàn",
