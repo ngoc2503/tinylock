@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "what-time-should-children-go-to-bed",
+      "title": "Trẻ mấy giờ nên đi ngủ? Giờ ngủ phù hợp theo từng độ tuổi",
+      "file": "articles/what-time-should-children-go-to-bed.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-09",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-teach-child-to-clean-up-toys",
       "title": "Làm sao để trẻ tự giác dọn đồ chơi? 10 cách giúp trẻ hình thành thói quen ngăn nắp",
       "file": "articles/how-to-teach-child-to-clean-up-toys.md",
