@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "what-time-should-children-go-to-bed",
+      "title": "What Time Should Children Go to Bed? Recommended Bedtimes by Age",
+      "file": "articles/what-time-should-children-go-to-bed.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-09",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "how-to-teach-child-to-clean-up-toys",
       "title": "How to Teach Your Child to Clean Up Toys: 10 Ways to Build Independent Habits",
