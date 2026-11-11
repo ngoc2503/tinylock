@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-teach-your-child-to-communicate-better",
+      "title": "Làm thế nào để dạy trẻ giao tiếp tốt hơn? 10 cách giúp trẻ tự tin trò chuyện và kết nối với mọi người",
+      "file": "articles/how-to-teach-your-child-to-communicate-better.md",
+      "version": 1,
+      "ageMinMonths": 24,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-10",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-is-my-child-irritable-and-easily-angered",
       "title": "Trẻ hay cáu gắt, nóng giận? Nguyên nhân và cách giúp trẻ kiểm soát cảm xúc",
       "file": "articles/why-is-my-child-irritable-and-easily-angered.md",
