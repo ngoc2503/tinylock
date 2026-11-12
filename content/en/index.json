@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-does-excessive-phone-use-affect-children",
+      "title": "How Does Excessive Phone Use Affect Children? 8 Effects Parents Should Know",
+      "file": "articles/how-does-excessive-phone-use-affect-children.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-11",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-to-prevent-accidents-at-home-for-children",
       "title": "How to Prevent Accidents at Home for Children: A Room-by-Room Safety Guide",
       "file": "articles/how-to-prevent-accidents-at-home-for-children.md",
