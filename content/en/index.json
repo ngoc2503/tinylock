@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "baby-often-chokes-while-bottle-feeding",
+      "title": "What Should You Do If Your Baby Often Chokes While Bottle-Feeding?",
+      "file": "articles/baby-often-chokes-while-bottle-feeding.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 11,
+      "createdAt": "2026-11-12",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "newborn-cries-when-put-down",
       "title": "Why Does My Newborn Cry Whenever I Put Them Down? What Should I Do?",
       "file": "articles/newborn-cries-when-put-down.md",
