@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "newborn-cries-when-put-down",
+      "title": "Bé sơ sinh cứ đặt xuống giường là khóc, phải làm sao? Nguyên nhân và cách giúp bé ngủ ngon",
+      "file": "articles/newborn-cries-when-put-down.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 2,
+      "createdAt": "2026-11-12",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "how-does-excessive-phone-use-affect-children",
       "title": "Trẻ xem điện thoại nhiều có ảnh hưởng gì? 8 tác động cha mẹ cần biết",
       "file": "articles/how-does-excessive-phone-use-affect-children.md",
