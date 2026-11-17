@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "baby-squirms-turns-red-and-grunts-during-sleep",
+      "title": "Bé ngủ hay vặn mình, đỏ mặt và rên rỉ có bình thường không? Nguyên nhân và cách chăm sóc",
+      "file": "articles/baby-squirms-turns-red-and-grunts-during-sleep.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 12,
+      "createdAt": "2026-11-13",
+      "topics": ["an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "should-you-force-your-child-to-eat",
       "title": "Có nên ép trẻ ăn khi trẻ không muốn ăn không? Cách giúp trẻ ăn uống tự nhiên và đủ chất",
