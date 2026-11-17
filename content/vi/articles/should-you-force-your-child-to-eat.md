@@ -1,5 +1,3 @@
-# Có nên ép trẻ ăn khi trẻ không muốn ăn không? Cách giúp trẻ ăn uống tự nhiên và đủ chất
-
 Khi trẻ ăn ít, ngậm thức ăn, quay mặt đi hoặc từ chối món ăn, nhiều cha mẹ lo lắng trẻ không đủ chất và chậm tăng cân. Vì vậy, một số phụ huynh thường cố gắng đút thêm, yêu cầu trẻ ăn hết khẩu phần, bật điện thoại để dụ trẻ ăn hoặc thậm chí quát mắng khi trẻ từ chối.
 
 Tuy nhiên, **cha mẹ không nên ép trẻ ăn khi trẻ không muốn ăn**. Việc gây áp lực trong bữa ăn có thể khiến trẻ căng thẳng, hình thành cảm giác tiêu cực với thức ăn và làm những bữa ăn sau trở nên khó khăn hơn.
