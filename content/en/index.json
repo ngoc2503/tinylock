@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+       {
+      "id": "should-you-force-your-child-to-eat",
+      "title": "Should You Force Your Child to Eat When They Don't Want To? How to Build Healthy Eating Habits",
+      "file": "articles/should-you-force-your-child-to-eat.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 24,
+      "createdAt": "2026-11-13",
+      "topics": ["an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "baby-often-chokes-while-bottle-feeding",
       "title": "What Should You Do If Your Baby Often Chokes While Bottle-Feeding?",
