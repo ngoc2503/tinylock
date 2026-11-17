@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-recognize-signs-of-autism-in-children",
+      "title": "Làm sao để nhận biết trẻ có dấu hiệu tự kỷ? Những biểu hiện cha mẹ cần chú ý",
+      "file": "articles/how-to-recognize-signs-of-autism-in-children.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-14",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "is-it-harmful-for-children-to-sleep-with-their-mouth-open",
       "title": "Trẻ ngủ há miệng có ảnh hưởng gì không? Nguyên nhân và cách khắc phục",
       "file": "articles/is-it-harmful-for-children-to-sleep-with-their-mouth-open.md",
