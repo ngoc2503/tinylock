@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "is-it-harmful-for-children-to-sleep-with-their-mouth-open",
+      "title": "Is It Harmful for Children to Sleep with Their Mouth Open? Causes and What Parents Can Do",
+      "file": "articles/is-it-harmful-for-children-to-sleep-with-their-mouth-open.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-14",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "baby-squirms-turns-red-and-grunts-during-sleep",
       "title": "Is It Normal for Babies to Squirm, Turn Red, and Grunt During Sleep? Causes and Care Tips",
       "file": "articles/baby-squirms-turns-red-and-grunts-during-sleep.md",
