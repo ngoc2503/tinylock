@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "how-to-recognize-signs-of-autism-in-children",
+      "title": "How Can You Recognize Signs of Autism in Children? What Parents Should Look For",
+      "file": "articles/how-to-recognize-signs-of-autism-in-children.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-14",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "is-it-harmful-for-children-to-sleep-with-their-mouth-open",
       "title": "Is It Harmful for Children to Sleep with Their Mouth Open? Causes and What Parents Can Do",
