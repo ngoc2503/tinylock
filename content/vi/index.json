@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
      {
+      "id": "should-you-force-your-child-to-eat",
+      "title": "Có nên ép trẻ ăn khi trẻ không muốn ăn không? Cách giúp trẻ ăn uống tự nhiên và đủ chất",
+      "file": "articles/should-you-force-your-child-to-eat.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 24,
+      "createdAt": "2026-11-13",
+      "topics": ["an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+     {
       "id": "baby-often-chokes-while-bottle-feeding",
       "title": "Bé bú bình hay bị sặc phải làm sao? Nguyên nhân và cách xử trí an toàn",
       "file": "articles/baby-often-chokes-while-bottle-feeding.md",
