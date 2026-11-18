@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "why-do-children-get-hiccups",
+      "title": "Vì sao trẻ hay bị nấc cụt? Nguyên nhân và cách xử lý an toàn",
+      "file": "articles/why-do-children-get-hiccups.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-15",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "how-to-recognize-signs-of-autism-in-children",
       "title": "Làm sao để nhận biết trẻ có dấu hiệu tự kỷ? Những biểu hiện cha mẹ cần chú ý",
