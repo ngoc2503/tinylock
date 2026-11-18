@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "why-do-children-get-hiccups",
+      "title": "Why Do Children Get Hiccups So Often? Causes and Safe Ways to Help",
+      "file": "articles/why-do-children-get-hiccups.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-15",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "how-to-recognize-signs-of-autism-in-children",
       "title": "How Can You Recognize Signs of Autism in Children? What Parents Should Look For",
