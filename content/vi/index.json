@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+    {
+      "id": "why-children-feel-hurt-when-corrected",
+      "title": "Vì sao trẻ dễ tủi thân khi bị người lớn nhắc nhở? Nguyên nhân và cách giúp trẻ vượt qua",
+      "file": "articles/why-children-feel-hurt-when-corrected.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 144,
+      "createdAt": "2026-11-15",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
      {
       "id": "why-do-children-get-hiccups",
       "title": "Vì sao trẻ hay bị nấc cụt? Nguyên nhân và cách xử lý an toàn",
