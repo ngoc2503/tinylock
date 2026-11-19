@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "child-scratches-bites-or-hits-parents",
+      "title": "Trẻ hay cấu, cắn hoặc đánh bố mẹ có phải là bất thường không? Nguyên nhân và cách xử lý",
+      "file": "articles/child-scratches-bites-or-hits-parents.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 36,
+      "createdAt": "2026-11-17",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "child-only-wants-milk-and-refuses-food",
       "title": "Trẻ chỉ thích uống sữa, không chịu ăn thức ăn phải làm sao?",
       "file": "articles/child-only-wants-milk-and-refuses-food.md",
