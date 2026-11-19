@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "child-only-wants-milk-and-refuses-food",
+      "title": "Trẻ chỉ thích uống sữa, không chịu ăn thức ăn phải làm sao?",
+      "file": "articles/child-only-wants-milk-and-refuses-food.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-17",
+      "topics": ["dinh-duong","an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-does-baby-keep-pulling-off-breast-during-feeding",
       "title": "Bé hay nhả ti khi đang bú là vì sao? Nguyên nhân và cách xử lý",
       "file": "articles/why-does-baby-keep-pulling-off-breast-during-feeding.md",
