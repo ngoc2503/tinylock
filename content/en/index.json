@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "child-scratches-bites-or-hits-parents",
+      "title": "Is It Normal for Children to Scratch, Bite, or Hit Their Parents? Causes and What Parents Can Do",
+      "file": "articles/child-scratches-bites-or-hits-parents.md",
+      "version": 1,
+      "ageMinMonths": 12,
+      "ageMaxMonths": 36,
+      "createdAt": "2026-11-17",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "child-only-wants-milk-and-refuses-food",
       "title": "What Should You Do If Your Child Only Wants Milk and Refuses Food?",
       "file": "articles/child-only-wants-milk-and-refuses-food.md",
