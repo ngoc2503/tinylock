@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-does-baby-keep-pulling-off-breast-during-feeding",
+      "title": "Why Does My Baby Keep Pulling Off the Breast During Feeding? Causes and What Parents Can Do",
+      "file": "articles/why-does-baby-keep-pulling-off-breast-during-feeding.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 24,
+      "createdAt": "2026-11-16",
+      "topics": ["dinh-duong","an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-child-frequently-holds-food-in-mouth",
       "title": "What Should You Do If Your Child Frequently Holds Food in Their Mouth? Causes and Solutions",
       "file": "articles/why-child-frequently-holds-food-in-mouth.md",
