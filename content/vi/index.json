@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-does-baby-keep-pulling-off-breast-during-feeding",
+      "title": "Bé hay nhả ti khi đang bú là vì sao? Nguyên nhân và cách xử lý",
+      "file": "articles/why-does-baby-keep-pulling-off-breast-during-feeding.md",
+      "version": 1,
+      "ageMinMonths": 0,
+      "ageMaxMonths": 24,
+      "createdAt": "2026-11-16",
+      "topics": ["dinh-duong","an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-child-frequently-holds-food-in-mouth",
       "title": "Bé thường xuyên ngậm thức ăn trong miệng phải làm sao? Nguyên nhân và cách khắc phục",
       "file": "articles/why-child-frequently-holds-food-in-mouth.md",
