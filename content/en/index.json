@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "child-only-wants-milk-and-refuses-food",
+      "title": "What Should You Do If Your Child Only Wants Milk and Refuses Food?",
+      "file": "articles/child-only-wants-milk-and-refuses-food.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-17",
+      "topics": ["dinh-duong","an-uong","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-does-baby-keep-pulling-off-breast-during-feeding",
       "title": "Why Does My Baby Keep Pulling Off the Breast During Feeding? Causes and What Parents Can Do",
       "file": "articles/why-does-baby-keep-pulling-off-breast-during-feeding.md",
