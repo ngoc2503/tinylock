@@ -1,6 +1,18 @@
 {
   "schemaVersion": 1,
   "articles": [
+     {
+      "id": "how-to-help-children-stop-using-devices-on-their-own",
+      "title": "Làm Sao Để Trẻ Tự Giác Dừng Sử Dụng Điện Thoại, Máy Tính Bảng? 8 Cách Giúp Con Hình Thành Thói Quen Lành Mạnh",
+      "file": "articles/how-to-help-children-stop-using-devices-on-their-own.md",
+      "version": 1,
+      "ageMinMonths": 24,
+      "ageMaxMonths": 144,
+      "createdAt": "2026-11-19",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
     {
       "id": "why-child-cries-when-not-getting-what-they-want",
       "title": "Trẻ Khóc Khi Không Được Đáp Ứng Yêu Cầu: Cách Xử Lý Và Dạy Con Biết Chấp Nhận Từ Chối",
