@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "how-to-help-children-stop-using-devices-on-their-own",
+      "title": "How to Help Children Stop Using Phones and Tablets on Their Own: 8 Ways to Build Healthy Screen Habits",
+      "file": "articles/how-to-help-children-stop-using-devices-on-their-own.md",
+      "version": 1,
+      "ageMinMonths": 24,
+      "ageMaxMonths": 144,
+      "createdAt": "2026-11-19",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "why-child-cries-when-not-getting-what-they-want",
       "title": "Why Does a Child Cry When They Don't Get What They Want? How Parents Can Respond and Teach Acceptance",
       "file": "articles/why-child-cries-when-not-getting-what-they-want.md",
