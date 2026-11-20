@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-child-cries-when-not-getting-what-they-want",
+      "title": "Why Does a Child Cry When They Don't Get What They Want? How Parents Can Respond and Teach Acceptance",
+      "file": "articles/why-child-cries-when-not-getting-what-they-want.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-18",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "does-eating-while-watching-a-phone-affect-children",
       "title": "Is It Bad for Children to Use Phones While Eating? Effects and How to Break the Habit",
       "file": "articles/does-eating-while-watching-a-phone-affect-children.md",
