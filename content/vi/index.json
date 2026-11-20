@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "why-child-cries-when-not-getting-what-they-want",
+      "title": "Trẻ Khóc Khi Không Được Đáp Ứng Yêu Cầu: Cách Xử Lý Và Dạy Con Biết Chấp Nhận Từ Chối",
+      "file": "articles/why-child-cries-when-not-getting-what-they-want.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 96,
+      "createdAt": "2026-11-18",
+      "topics": ["hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "does-eating-while-watching-a-phone-affect-children",
       "title": "Trẻ Vừa Ăn Vừa Xem Điện Thoại Có Tốt Không? Tác Hại Và Cách Khắc Phục",
       "file": "articles/does-eating-while-watching-a-phone-affect-children.md",
