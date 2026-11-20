@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "does-eating-while-watching-a-phone-affect-children",
+      "title": "Trẻ Vừa Ăn Vừa Xem Điện Thoại Có Tốt Không? Tác Hại Và Cách Khắc Phục",
+      "file": "articles/does-eating-while-watching-a-phone-affect-children.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-18",
+      "topics": ["an-uong","hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "child-scratches-bites-or-hits-parents",
       "title": "Trẻ hay cấu, cắn hoặc đánh bố mẹ có phải là bất thường không? Nguyên nhân và cách xử lý",
       "file": "articles/child-scratches-bites-or-hits-parents.md",
