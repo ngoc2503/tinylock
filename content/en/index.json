@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "articles": [
     {
+      "id": "does-eating-while-watching-a-phone-affect-children",
+      "title": "Is It Bad for Children to Use Phones While Eating? Effects and How to Break the Habit",
+      "file": "articles/does-eating-while-watching-a-phone-affect-children.md",
+      "version": 1,
+      "ageMinMonths": 6,
+      "ageMaxMonths": 132,
+      "createdAt": "2026-11-18",
+      "topics": ["an-uong","hanh-vi","cham-soc-tre"],
+      "sourceOrg": "",
+      "sourceUrl": ""
+    },
+    {
       "id": "child-scratches-bites-or-hits-parents",
       "title": "Is It Normal for Children to Scratch, Bite, or Hit Their Parents? Causes and What Parents Can Do",
       "file": "articles/child-scratches-bites-or-hits-parents.md",
